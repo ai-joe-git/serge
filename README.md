@@ -102,17 +102,7 @@ LLaMA will crash if you don't have enough available memory for the model:
 
 Need help? Join our [Discord](https://discord.gg/62Hc6FEYQH)
 
-## 🧾 License
 
-[Nathan Sarrazin](https://github.com/nsarrazin) and [Contributors](https://github.com/serge-chat/serge/graphs/contributors). `Serge` is free and open-source software licensed under the [MIT License](https://github.com/serge-chat/serge/blob/main/LICENSE-MIT) and [Apache-2.0](https://github.com/serge-chat/serge/blob/main/LICENSE-APACHE).
-
-## 🤝 Contributing
-
-If you discover a bug or have a feature idea, feel free to open an issue or PR.
-
-To run Serge in development mode:
-```bash
-git clone https://github.com/serge-chat/serge.git
 cd serge/
 docker compose -f docker-compose.dev.yml up --build
 ```
