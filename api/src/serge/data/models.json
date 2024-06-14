@@ -1,15 +1,15 @@
 [
     {   
-        "name": "Alfred",
+        "name": "Dolphin-2.9.3-qwen2-0.5b",
         "models": [
             {
-                "name": "Alfred-40B",
-                "repo": "TheBloke/alfred-40B-1023-GGUF",
+                "name": "dolphin-2.9.3-qwen2-0.5b",
+                "repo": "mradermacher/dolphin-2.9.3-qwen2-0.5b-GGUF",
                 "files": [
                     {
-                        "name": "q4_K_M",
-                        "filename": "alfred-40b-1023.Q4_K_M.gguf",
-                        "disk_space": 25452369600.0
+                        "name": "q8_0",
+                        "filename": "dolphin-2.9.3-qwen2-0.5b.Q8_0.gguf",
+                        "disk_space": 531000.0
                     }
                 ]
             }           
