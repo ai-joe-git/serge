@@ -17,7 +17,7 @@
   let repeat_penalty = 1.3;
 
   let init_prompt =
-    "You are an AI assistant, and you do whatever we ask.";
+    "Below is an instruction that describes a task. Write a response that appropriately completes the request.";
 
   let n_threads = 4;
   let context_window = 2048;
