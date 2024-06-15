@@ -1,6 +1,6 @@
 services:
   serge:
-    image: ghcr.io/ai-joe-git/serge:main
+    image: ghcr.io/ai-joe-git/serge:latest
     container_name: serge
     restart: unless-stopped
     ports:
